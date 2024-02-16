@@ -1,6 +1,7 @@
 # Getting Started
 
-![Screenshot_1708116434](https://github.com/nadirulmi/calculator/assets/106765602/a9b8601e-cae4-4266-a3c7-1c9b12dedfe3)
+![Texto alternativo](https://github.com/nadirulmi/calculator/assets/106765602/a9b8601e-cae4-4266-a3c7-1c9b12dedfe3){width=400px}
+
 
 ## Step 1: Start the Metro Server
 
