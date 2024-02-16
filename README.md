@@ -1,6 +1,6 @@
 # Getting Started
 
-![Uploading Screenshot_1708116434.png…]()
+![Uploading calculator.png…]()
 
 ## Step 1: Start the Metro Server
 
